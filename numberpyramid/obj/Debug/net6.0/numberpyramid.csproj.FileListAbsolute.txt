@@ -1,0 +1,15 @@
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\bin\Debug\net6.0\numberpyramid.exe
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\bin\Debug\net6.0\numberpyramid.deps.json
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\bin\Debug\net6.0\numberpyramid.runtimeconfig.json
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\bin\Debug\net6.0\numberpyramid.dll
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\bin\Debug\net6.0\numberpyramid.pdb
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.csproj.AssemblyReference.cache
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.AssemblyInfoInputs.cache
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.AssemblyInfo.cs
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.csproj.CoreCompileInputs.cache
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.dll
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\refint\numberpyramid.dll
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.pdb
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\numberpyramid.genruntimeconfig.cache
+C:\Users\Vijaya.Namagiri\source\csharp\numberpyramid\obj\Debug\net6.0\ref\numberpyramid.dll
